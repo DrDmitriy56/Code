@@ -1,0 +1,4 @@
+﻿  RandomeLine.cpp
+D:\Visual - projects\RandomeLine\RandomeLine\RandomeLine.cpp(39,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual - projects\RandomeLine\RandomeLine\RandomeLine.cpp(41,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  RandomeLine.vcxproj -> D:\Visual - projects\RandomeLine\x64\Debug\RandomeLine.exe
