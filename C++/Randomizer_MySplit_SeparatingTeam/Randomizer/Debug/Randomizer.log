@@ -1,0 +1,4 @@
+﻿  WTF.cpp
+C:\Users\Дима\source\repos\Randomizer\Randomizer\WTF.cpp(40,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Дима\source\repos\Randomizer\Randomizer\WTF.cpp(45,28): warning C4018: <: несоответствие типов со знаком и без знака
+  Randomizer.vcxproj -> C:\Users\Дима\source\repos\Randomizer\Debug\Randomizer.exe

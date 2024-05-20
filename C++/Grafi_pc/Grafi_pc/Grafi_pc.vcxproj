@@ -20,6 +20,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Debug\Graphs_2_1.cpp" />
+    <ClCompile Include="Graphs_2.cpp" />
+    <ClCompile Include="Graphs_nodes.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
