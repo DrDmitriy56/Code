@@ -9,10 +9,10 @@ step = 0.1
 def f(x):
     return math.sin(x)
 
-def integrationTrapezoid(fstValue, sndValue):
+def integrationTrapezoid(base1, base2):
     global area
     global step
-    area += ((fstValue + sndValue) / 2) * step
+    area += ((base1 + base2) / 2) * step
 
 
 for x in range(int(xLength/step) + 1):
