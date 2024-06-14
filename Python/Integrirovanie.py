@@ -4,7 +4,7 @@ skipFst = False
 
 area = 0
 xLength = 10
-step = 0.1
+step = 0.001
 
 def f(x):
     return math.sin(x)
@@ -21,4 +21,4 @@ for x in range(int(xLength/step) + 1):
     else:
         skipFst = True
 
-print(f"area = {area:.4f}")
+print(f"area = {area}")
